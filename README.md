@@ -1,10 +1,10 @@
-# M259-ProjektArbeit
+# M259-PA
 
 M259 - Develop ICT solutions with machine learning
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/cli/pip_download/) to initialize .
+Use the package manager [pip](https://pip.pypa.io/en/stable/cli/pip_download/) to initialize.
 
 ```bash
 pip install Python
